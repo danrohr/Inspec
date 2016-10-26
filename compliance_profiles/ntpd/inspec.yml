@@ -1,0 +1,8 @@
+name: ntpd
+title: NTPD Compliance Check
+maintainer: Dan Rohr
+copyright: The Authors
+copyright_email: drohr@redhat.com
+license: All Rights Reserved
+summary: Ntpd compliance check
+version: 0.1.1

@@ -1,0 +1,8 @@
+name: motd
+title: MOTD Testing Compliance Profile
+maintainer: Daniel Rohr
+copyright: Daniel Rohr
+copyright_email: drohr@redhat.com
+license: All Rights Reserved
+summary: Testing a simple MOTD compliance profile for proff of concept
+version: 0.1.1

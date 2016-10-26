@@ -1,0 +1,8 @@
+name: firewalld_client
+title: Firewalld Check for Clients
+maintainer: Dan Rohr
+copyright: Dan Rohr
+copyright_email: drohr@redhat.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
